@@ -30,9 +30,9 @@ holes:
 The assembly:
 
  - [arducam_mount_assembly.png](arducam_mount_assembly.png)  
- - [final_assembly_detail_1.png](final_assembly_detail_1.png)
- - [final_assembly_detail_2.png](final_assembly_detail_2.png)
- - [final_assembly_detail_3.png](final_assembly_detail_3.png)
+ - [final_assembly_detail_1.jpg](final_assembly_detail_1.jpg)
+ - [final_assembly_detail_2.jpg](final_assembly_detail_2.jpg)
+ - [final_assembly_detail_3.jpg](final_assembly_detail_3.jpg)
 
 Note:  These pictures show an earlier version.  I added more rotation, an
 offset to account for the plate at the end of the extrusion, and tweaked the
