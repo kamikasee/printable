@@ -9,7 +9,7 @@ freedom for aiming the camera. The mount is particularly meant to keep the
 center of mass of the camera module over the support.
 
 The model:
- - arducam_mk3_mount_v3.f3d    
+ - [arducam_mk3_mount_v3.f3d](arducam_mk3_mount_v3.f3d)    
 
 STL files:
  - pivot_arm.stl
