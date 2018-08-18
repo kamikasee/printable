@@ -20,6 +20,10 @@ STL files:
 Suggested print orientations:
 
  - [printing_orientations.png](printing_orientations.png)  
+ 
+Printed mine in black Hatchbox PETG.  Settings:
+ - 20% cubic infill on everything but the main arm which is at 70% cubic.
+ - Use 15 mm/s speeds for first and top layer infil to improve the quality of the final part
 
 Use the layer editing feature of Slic3r PE to add detail around the horizontal
 holes:
@@ -36,7 +40,7 @@ The assembly:
 
 Note:  These pictures show an earlier version.  I added more rotation, an
 offset to account for the plate at the end of the extrusion, and tweaked the
-tolerances in the final model.  But the overall build is as shown.
+tolerances in the final model.  But the overall build is basically as shown.
 
 In addition, you'll need:
  - For mounting the arm to the extrusion:
