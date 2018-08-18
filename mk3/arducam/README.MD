@@ -12,27 +12,27 @@ The model:
  - [arducam_mk3_mount_v3.f3d](arducam_mk3_mount_v3.f3d)    
 
 STL files:
- - pivot_arm.stl
- - rail_arm.stl
- - rotation_plate.stl
- - rotation_body.stl
+ - [pivot_arm.stl](pivot_arm.stl)
+ - [rail_arm.stl](rail_arm.stl)
+ - [rotation_plate.stl](rotation_plate.stl)
+ - [rotation_body.stl](rotation_body.stl)
 
 Suggested print orientations:
 
- - printing_orientations.png  
+ - [printing_orientations.png](printing_orientations.png)  
 
 Use the layer editing feature of Slic3r PE to add detail around the horizontal
 holes:
 
- - rotation_body_layer_detail.png
- - pivot_arm_layer_detail.png  
+ - [rotation_body_layer_detail.png](rotation_body_layer_detail.png)
+ - [pivot_arm_layer_detail.png](pivot_arm_layer_detail.png)
 
 The assembly:
 
- - arducam_mount_assembly.png  
- - final_assembly_detail_1.png
- - final_assembly_detail_2.png
- - final_assembly_detail_3.png
+ - [arducam_mount_assembly.png](arducam_mount_assembly.png)  
+ - [final_assembly_detail_1.png](final_assembly_detail_1.png)
+ - [final_assembly_detail_2.png](final_assembly_detail_2.png)
+ - [final_assembly_detail_3.png](final_assembly_detail_3.png)
 
 Note:  These pictures show an earlier version.  I added more rotation, an
 offset to account for the plate at the end of the extrusion, and tweaked the
